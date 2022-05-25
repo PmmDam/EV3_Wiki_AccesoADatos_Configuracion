@@ -1,0 +1,9 @@
+{
+  "DataLayer": {
+    "ServerName": "127.0.0.1",
+    "Login": "LoginTest",
+    "Password": "123456789/a",
+    "DbName": "testdb",
+    "ConnectionString": "Data Source=DESKTOP-U6T9VKO;Initial Catalog=testdb;User ID=LoginTest;Password=123456789/a;TrustServerCertificate=True"
+  }
+}

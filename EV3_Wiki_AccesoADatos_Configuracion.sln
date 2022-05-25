@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EV3_Wiki_AccesoADatos_Configuracion", "EV3_Wiki_AccesoADatos_Configuracion\EV3_Wiki_AccesoADatos_Configuracion.csproj", "{BBA1FB34-AC48-4292-9CD8-6CCFC9F14402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{3DD119E2-3487-4B59-A265-0F855B7D685B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA1FB34-AC48-4292-9CD8-6CCFC9F14402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA1FB34-AC48-4292-9CD8-6CCFC9F14402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA1FB34-AC48-4292-9CD8-6CCFC9F14402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA1FB34-AC48-4292-9CD8-6CCFC9F14402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD119E2-3487-4B59-A265-0F855B7D685B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD119E2-3487-4B59-A265-0F855B7D685B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD119E2-3487-4B59-A265-0F855B7D685B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD119E2-3487-4B59-A265-0F855B7D685B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1A4A7D0-11F7-46FE-83FE-1A48A3932898}
+	EndGlobalSection
+EndGlobal
